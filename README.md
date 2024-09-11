@@ -23,9 +23,6 @@ LOGIN SCREEN
 SIGNUP SCREEN
 ![img_1.png](img_1.png)
 
-DASHBOARD SCREEN
-
-
 Resources
 To get started with Flutter development, you can check out these resources:
 
