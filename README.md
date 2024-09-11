@@ -8,13 +8,16 @@ Technologies Used:
 Frontend: Flutter Web
 Backend: Node.js with Express.js
 Database: MongoDB
+
 Features:
 Login and signup functionality for admin users.
 Manage travel bookings, user data, and travel packages.
 Secure user authentication and authorization.
 Real-time data sync with MongoDB.
+
 Screenshots
-(Add screenshots of the web app here)
+
+
 
 Resources
 To get started with Flutter development, you can check out these resources:
