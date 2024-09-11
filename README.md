@@ -16,7 +16,14 @@ Secure user authentication and authorization.
 Real-time data sync with MongoDB.
 
 Screenshots
+
+LOGIN SCREEN 
 ![img.png](img.png)
+
+SIGNUP SCREEN
+![img_1.png](img_1.png)
+
+DASHBOARD SCREEN
 
 
 Resources
