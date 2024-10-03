@@ -23,6 +23,21 @@ LOGIN SCREEN
 SIGNUP SCREEN
 ![img_1.png](img_1.png)
 
+DASHBOARD
+![img_2.png](img_2.png)
+
+TOUR PACKAGES
+![img_3.png](img_3.png)
+
+ADD PACKAGES
+![img_4.png](img_4.png)
+
+LOCATIONS
+![img_5.png](img_5.png)
+
+SETTINGS
+![img_6.png](img_6.png)
+
 Resources
 To get started with Flutter development, you can check out these resources:
 
